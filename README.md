@@ -1,2 +1,0 @@
-# FOMOFeederDB
-Database for FOMOFeeder.
